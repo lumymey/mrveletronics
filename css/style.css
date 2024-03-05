@@ -3,6 +3,9 @@
 /*--------------------------------------------------------------
 # General
 --------------------------------------------------------------*/
+
+
+
 @import url('https://fonts.googleapis.com/css2?family=Protest+Revolution&family=Silkscreen:wght@400;700&family=Vollkorn:ital,wght@0,400..900;1,400..900&display=swap');
 
 
@@ -80,7 +83,7 @@ h6 {
   z-index: 9997;
   transition: all 0.5s;
   padding: 0 15px;
-  background: #040b14;
+  background: #41499598;
   overflow-y: auto;
 }
 
